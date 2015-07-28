@@ -1,0 +1,9 @@
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\bin\Debug\KPGAutoOpen.exe.config
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\bin\Debug\KPGAutoOpen.exe
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\bin\Debug\KPGAutoOpen.pdb
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.csprojResolveAssemblyReference.cache
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.Form1.resources
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.Properties.Resources.resources
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.csproj.GenerateResource.Cache
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.exe
+C:\Users\e.Eng.001\Google Drive\Projects\KPGAutoOpen\KPGAutoOpen\obj\Debug\KPGAutoOpen.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<txlines>
+  <txline name="LDF5-50A" maxfreq="5000">
+    <curve lowf="0" highf="1800" type="POWER" a="0.1089" p="0.528" c="0.0"></curve>
+    <curve lowf="1801" highf="max" type="POWER" a="0.0015" p ="1" c="3.1288"></curve> 
+  </txline>
+  <txline name="RG-58/U" maxfreq="1000">
+    <curve lowf="0" highf="600" type="POWER" a="0.9662" p="0.5605" c="0.0"></curve>
+    <curve lowf="601" highf="max" type="POWER" a="0.0309" p="1" c="16.827"></curve>
+  </txline>
+  <txline name="LMR400" maxfreq="5800">
+    <curve lowf="0" highf="2500" type="POWER" a="0.3649" p="0.5248" c="0.0"></curve>
+    <curve lowf="601" highf="max" type="POWER" a="0.004" p="1" c="12.124"></curve>
+  </txline>
+</txlines>
