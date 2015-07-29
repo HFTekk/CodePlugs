@@ -4,4 +4,8 @@ This is the second line.
 
 This is the third line.
 
+<<<<<<< HEAD
 This is Michael's line.
+=======
+This is the line that Paul added. 
+>>>>>>> origin/master
