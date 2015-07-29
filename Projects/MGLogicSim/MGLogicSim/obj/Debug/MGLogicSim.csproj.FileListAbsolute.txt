@@ -1,9 +1,0 @@
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\bin\Debug\MGLogicSim.exe.config
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\bin\Debug\MGLogicSim.exe
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\bin\Debug\MGLogicSim.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.csprojResolveAssemblyReference.cache
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.Form1.resources
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.Properties.Resources.resources
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.csproj.GenerateResource.Cache
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.exe
-C:\Users\e.Eng.001\Google Drive\Projects\MGLogicSim\MGLogicSim\obj\Debug\MGLogicSim.pdb

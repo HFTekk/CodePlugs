@@ -1,9 +1,0 @@
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\bin\Debug\NetworkGoS.exe.config
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\bin\Debug\NetworkGoS.exe
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\bin\Debug\NetworkGoS.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.csprojResolveAssemblyReference.cache
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.Form1.resources
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.Properties.Resources.resources
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.csproj.GenerateResource.Cache
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.exe
-C:\Users\e.Eng.001\Google Drive\Projects\NetworkGoS\NetworkGoS\obj\Debug\NetworkGoS.pdb

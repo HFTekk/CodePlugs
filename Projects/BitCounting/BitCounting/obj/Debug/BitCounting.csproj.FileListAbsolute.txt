@@ -1,9 +1,0 @@
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\bin\Debug\BitCounting.exe.config
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\bin\Debug\BitCounting.exe
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\bin\Debug\BitCounting.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.csprojResolveAssemblyReference.cache
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.Form1.resources
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.Properties.Resources.resources
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.csproj.GenerateResource.Cache
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.exe
-C:\Users\e.Eng.001\Google Drive\Projects\BitCounting\BitCounting\obj\Debug\BitCounting.pdb

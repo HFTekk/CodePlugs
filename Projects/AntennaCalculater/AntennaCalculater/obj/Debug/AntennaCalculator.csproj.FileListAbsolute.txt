@@ -1,9 +1,0 @@
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\bin\Debug\AntennaCalculater.exe.config
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\bin\Debug\AntennaCalculater.exe
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\bin\Debug\AntennaCalculater.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculator.Form1.resources
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculator.Properties.Resources.resources
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculator.csproj.GenerateResource.Cache
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculater.exe
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculater.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\AntennaCalculater\AntennaCalculater\obj\Debug\AntennaCalculator.csprojResolveAssemblyReference.cache

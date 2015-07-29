@@ -1,9 +1,0 @@
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\bin\Debug\KWVirtualRadio.exe.config
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\bin\Debug\KWVirtualRadio.exe
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\bin\Debug\KWVirtualRadio.pdb
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.csprojResolveAssemblyReference.cache
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.Form1.resources
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.Properties.Resources.resources
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.csproj.GenerateResource.Cache
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.exe
-C:\Users\e.Eng.001\Google Drive\Projects\KWVirtualRadio\KWVirtualRadio\obj\Debug\KWVirtualRadio.pdb
